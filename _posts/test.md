@@ -19,8 +19,6 @@ this is my first website
 
 this is my favorite website
 
-this is the web [Kendall County](www.kendallcountyil.gov)
-
 
 
 ## test
